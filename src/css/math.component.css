@@ -1,0 +1,7 @@
+
+.expytha>.main{clear: both; position: relative; height: 270px;}
+.expytha>.supplement{clear: both; position: relative; height:170px; }
+.main .katex-display{height: 150px; padding: 60px 0px;}
+.supplement p{height: 100px; padding: 35px 0px;}
+.img_l{float: left; height: 270px; padding: 0px 30px;}
+.img_r{float: right; height: 170px; padding: 0px 30px;}

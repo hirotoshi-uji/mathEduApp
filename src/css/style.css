@@ -1,0 +1,5 @@
+.anime img{height: 500px;}
+
+.pythaTheo{height: 180px; margin: 0px 50px; border: solid 2px black ; border-radius: 15px  }
+.pythaTheo>img{height: 170px; float: right; padding: 5px 30px;}
+.pythaTheo>.text{height: 100px; padding: 35px 30px; }
